@@ -22,10 +22,6 @@
 </div>  
   
 <br/>  
-
-### About
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=viniciusvacare&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
-<br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvacare&layout=compact&hide_border=true&theme=transparent" align="center" /></div>  
 
 <br/>  
