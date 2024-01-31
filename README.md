@@ -1,5 +1,5 @@
 ### Opa, eai! 👋
-Sou um jovem entusiasta da programação com uma paixão pela resolução de problemas complexos e pela criação de soluções inovadoras. Meu foco principal é tecnologias como Nodejs, Golang, C# e bancos de dados como Oracle, MySQL e Postgres, e estou constantemente buscando aprimorar minhas habilidades técnicas para enfrentar os desafios no mundo da tecnologia.
+Sou um jovem entusiasta da programação com uma paixão pela resolução de problemas complexos e pela criação de soluções inovadoras. Meu foco principal é tecnologias como Nodejs, Golang, Java, C# e bancos de dados como Oracle, MySQL e Postgres, frameworks como Reactjs, Spring Boot, e estou constantemente buscando aprimorar minhas habilidades técnicas para enfrentar os desafios no mundo da tecnologia.
 
 ### Veja minhas redes sociais
 <div align="left">
