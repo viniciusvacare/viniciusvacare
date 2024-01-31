@@ -1,8 +1,6 @@
 ### Opa, eai! 👋
 Sou um jovem entusiasta da programação com uma paixão pela resolução de problemas complexos e pela criação de soluções inovadoras. Meu foco principal é tecnologias como Nodejs, Golang, C# e bancos de dados como Oracle, MySQL e Postgres, e estou constantemente buscando aprimorar minhas habilidades técnicas para enfrentar os desafios no mundo da tecnologia.
 
-<br/>  
-
 ### Veja minhas redes sociais
 <div align="left">
   <a href="https://github.com/viniciusvacare" target="_blank">
@@ -18,5 +16,3 @@ Sou um jovem entusiasta da programação com uma paixão pela resolução de pro
   
 <br/>  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvacare&layout=compact&hide_border=true&theme=transparent" align="center" /></div>  
-
-<br/>  
