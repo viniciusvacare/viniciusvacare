@@ -3,7 +3,7 @@ Sou um jovem entusiasta da programação com uma paixão pela resolução de pro
 
 ### Veja minhas redes sociais
 <div align="left">
-  <a href="https://github.com/viniciusvacare" target="_blank">
+  <a target="_blank" href="https://github.com/viniciusvacare" >
     <img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/vinicius-vacare" target="_blank">
