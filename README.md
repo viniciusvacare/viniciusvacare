@@ -15,4 +15,4 @@ Sou um jovem entusiasta da programação com uma paixão pela resolução de pro
 </div>  
   
 <br/>  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvacare&layout=compact&hide_border=true&theme=transparent" align="center" /></div>  
+<!--<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvacare&layout=compact&hide_border=true&theme=transparent" align="center" /></div>-->
