@@ -8,10 +8,6 @@
 - **Bancos de dados:** Oracle Database, MySQL, PostgreSQL
 - **Outros:** Oracle APEX, APIs RESTful, integração de sistemas
 
-Estou sempre em busca de evolução técnica, boas práticas e soluções simples para problemas complexos.
-
----
-
 ## 🇺🇸 About me
 
 👋 Hi! I’m a software developer experienced in building back-end and front-end applications, as well as system integrations.
@@ -21,10 +17,6 @@ Estou sempre em busca de evolução técnica, boas práticas e soluções simple
 - **Front-end:** React.js
 - **Databases:** Oracle Database, MySQL, PostgreSQL
 - **Others:** Oracle APEX, RESTful APIs, system integration
-
-I’m constantly improving my skills, focused on clean solutions, performance, and best practices.
-
----
 
 ## 🔗 Social Links
 
